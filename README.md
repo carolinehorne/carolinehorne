@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Caroline, and I am studying to become a software developer!
+My name is Caroline, and I am a Junior software developer!
+
+- 🔭 I’m currently working on a Pothole Reporting Web App!
+- 🌱 I’m currently learning responsive web design.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with finding a company that is dedicated to developer growth!
+- 📫 How to reach me: My email is carolineleehorne@gmail.com, and here is my LinkedIn : https://www.linkedin.com/in/carolineleehorne/
