@@ -19,5 +19,5 @@ My name is Caroline, and I am a Junior software developer!
 
 - 🔭 I’m currently working on a Pothole Reporting Web App!
 - 🌱 I’m currently learning responsive web design.
-- 🤔 I’m looking for work with a company that is dedicated to developer growth and crativity!
+- 🤔 I’m looking for work with a company that is dedicated to developer growth and creativity!
 - 📫 How to reach me: My email is carolineleehorne@gmail.com, and here is my LinkedIn : https://www.linkedin.com/in/carolineleehorne/
